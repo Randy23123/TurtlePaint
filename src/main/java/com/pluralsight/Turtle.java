@@ -459,6 +459,4 @@ public class Turtle {
     private void pause() {
         try { Thread.sleep(this.pause); } catch (InterruptedException e) { }
     }
-
-
 }
